@@ -15,6 +15,8 @@ Just dowload the right one for your system and copy the executable file on this 
 C:\Users\[User]\AppData\Local\Programs\Python\Python37
 ```
 
+Make sure you have also [Mozilla Firefox](https://www.mozilla.org/firefox/new/) installed.
+
 ### Installing
 
 The installation it's straightforward.
