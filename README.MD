@@ -1,4 +1,4 @@
-# Twitter Bot (TweetPy)
+# Twitter Bot (Tweetbit)
 
 Simple GUI twitter bot to automate activity
 
@@ -37,9 +37,8 @@ and then run the script:
 python twitter_bot.py
 ```
 
+<img width="447" alt="tweetbit" src="https://user-images.githubusercontent.com/12022308/69905453-3f2b6300-1379-11ea-961d-6a7b10bcadaf.PNG">
 
-<img width="452" alt="tweetpy" src="https://user-images.githubusercontent.com/12022308/69894922-58d29900-12ec-11ea-9251-93b142cb9c95.PNG">
-  
   
 
 ## Authors
