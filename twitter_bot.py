@@ -91,7 +91,7 @@ def show_version():
 
 # ----------------------------Main Interface-----------------
 window = Tk()
-window.title("Twitter Bot  ")
+window.title("Tweetbit  ")
 
 w = 300
 h = 200
@@ -105,7 +105,7 @@ img = ImageTk.PhotoImage(Image.open(resource_path('fotobot.jpg')))
 imglabel = Label(window, image=img)
 imglabel.place(x=250, y=20)
 
-lbl_title = Label(window, text="Twitter Bot",
+lbl_title = Label(window, text="Tweetbit",
                   font=("Fixedsys", 40), background="#1FB6EE")
 lbl_title.grid(column=0, row=0)
 lbl_title.place(x=140, y=140)
